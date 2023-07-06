@@ -127,12 +127,8 @@ _Update Release version in query parameters_
 )
 
 ## License 📄
-
-This project is licensed under the [IUL License](LICENSE).
-Copyright (c) ShiftBoolean.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Website 🌐
 
 Visit us at [ShiftBoolean](www.shiftboolean.com)
-
-
