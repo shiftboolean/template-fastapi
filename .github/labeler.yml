@@ -1,0 +1,42 @@
+# Add 'repo' label to any root file changes
+repo:
+  - '*'
+
+# Add 'docs' label to any changes to the docs folder
+docs:
+  - 'docs/**'
+
+# Add 'tests' label to any changes to the tests folder
+tests:
+  - 'tests/**'
+
+# Add 'github-actions' label to any changes to the .github folder
+github-actions:
+  - '.github/**'
+
+# Add 'dependencies' label to any changes to requirements.txt or pyproject.toml or poetry.lock
+dependencies:
+  - 'requirements.txt'
+  - 'pyproject.toml'
+  - 'poetry.lock'
+
+# Add 'docker' label to any changes to Dockerfile or docker-compose.yml
+docker:
+  - 'Dockerfile'
+  - 'docker-compose.yml'
+
+# Add 'fastapi' label to any changes in the app folder
+fastapi:
+  - 'app/**'
+
+# Add 'models' label to any changes in the models folder
+models:
+  - 'models/**'
+
+# Add 'schemas' label to any changes in the schemas folder
+schemas:
+  - 'schemas/**'
+
+# Add 'routers' label to any changes in the routers folder
+routers:
+  - 'routers/**'
