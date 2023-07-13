@@ -1,11 +1,11 @@
 fastapi>=0.99.1
 uvicorn>=0.22.0
-motor==3.2.0
+motor>=3.2.0
 mypy==1.4.1
-ruff==0.0.277
-black == 23.3.0
+ruff>=0.0.278
+black>=23.7.0
 types-PyYAML==6.0.12.10
 types-ujson==5.8.0.0
-pydantic~=1.10.11
+pydantic>=2.0.2
 pytest~=7.4.0
 httpx~=0.24.1
