@@ -1,6 +1,6 @@
 fastapi>=0.99.1
 uvicorn>=0.22.0
-motor==3.3.2
+motor==3.4.0
 mypy==1.9.0
 ruff==0.2.1
 black == 24.3.0
