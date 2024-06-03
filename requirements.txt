@@ -6,6 +6,6 @@ ruff==0.4.5
 black == 24.4.2
 types-PyYAML==6.0.12.20240311
 types-ujson==5.10.0.20240515
-pydantic~=2.7.1
+pydantic~=2.7.2
 pytest~=8.2.1
 httpx~=0.27.0
