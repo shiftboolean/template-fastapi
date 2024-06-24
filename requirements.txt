@@ -2,7 +2,7 @@ fastapi>=0.99.1
 uvicorn>=0.22.0
 motor==3.4.0
 mypy==1.10.0
-ruff==0.4.5
+ruff==0.4.10
 black == 24.4.2
 types-PyYAML==6.0.12.20240311
 types-ujson==5.10.0.20240515
