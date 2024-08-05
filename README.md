@@ -5,6 +5,16 @@
 ![Test Cases](https://img.shields.io/badge/Tests-100%25-brightgreen?style=for-the-badge)
 [![TeamCity](https://img.shields.io/teamcity/https/teamcity.url.com/e/badge.svg?style=for-the-badge&logo=teamcity)](https://teamcity.url.com/viewType.html?buildTypeId=<project_id>)
 
+## Todo
+
+- [ ] Update Project Name in README.md
+- [ ] Update Project Name in CONTRIBUTING.md
+- [ ] Update Project Name in CHANGELOG.md
+- [ ] Update Project Name in VERSION.md
+- [ ] Change MIT License to Internal Use License (IUL) and update in README.md
+- [ ] Update Readme Badge URL
+- [ ] Delete the Todo section
+
 ## Introduction 📚
 
 This project is the back-end API for the <Project Name> application. It's built with FastAPI and follows a modular monolith architecture. The application handles functionalities such as User Management, Social Media, Shop.
@@ -127,12 +137,8 @@ _Update Release version in query parameters_
 )
 
 ## License 📄
-
-This project is licensed under the [IUL License](LICENSE).
-Copyright (c) ShiftBoolean.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Website 🌐
 
 Visit us at [ShiftBoolean](www.shiftboolean.com)
-
-

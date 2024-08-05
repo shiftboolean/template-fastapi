@@ -1,4 +1,4 @@
-# Changelog for RidingMotoBackend 🎈
+# Changelog for Project Name 🎈
 
 All notable changes to this project will be documented in this file.
 

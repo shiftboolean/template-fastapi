@@ -1,4 +1,4 @@
-# Versioning System for RidingMoto Backend 🎈
+# Versioning System for Project Name Backend 🎈
 
 In this project, we follow the Semantic Versioning system. This means that our version numbers follow the format of MAJOR.MINOR.PATCH. Here's what each component means:
 
