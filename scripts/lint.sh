@@ -4,5 +4,5 @@ set -e
 set -x
 
 mypy app --ignore-missing-imports
-ruff app tests scripts
+ruff check app tests scripts
 black app tests --check
